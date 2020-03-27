@@ -1,0 +1,13 @@
+img {
+	max-width: 40%;
+	height: auto;
+	margin: auto;
+}
+
+.img-container {
+	position:fixed;
+	top:50%;
+	margin:auto;
+	text-align:center;
+	transform: translate(0,-50%);
+}
